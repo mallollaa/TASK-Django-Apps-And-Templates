@@ -2,7 +2,7 @@
 
 ## Project Setup
 
-1. Fork and Clone this repository.
+1. Fork and Clone this [repository](https://github.com/JoinCODED/TASK-Django-Apps-And-Templates).
 1. Setup and activate your virtual environment.
 1. Install Django.
 1. Create a `.gitignore` file for your project.
