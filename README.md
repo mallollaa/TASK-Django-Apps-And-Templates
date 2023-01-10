@@ -28,7 +28,7 @@
 - Create a stylesheet for simple styling (like background color and font colors).
 - Update your settings to include `static url` and `static root`.
 - Add static url patterns conditionally in your main urls ([references](https://warehouse.joincoded.com/workshops/django-files/static-files/static-file-setup)).
-- Load static files in your templates.
+- Load static files in your templates ([django docs](https://docs.djangoproject.com/en/4.1/howto/static-files/)].
 - Link your stylesheet to your template.
 
 ## 5. Push Your Code
