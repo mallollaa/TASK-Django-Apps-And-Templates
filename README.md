@@ -25,10 +25,11 @@
 
 ## 4. Add Static and Media
 
-- Create a stylesheet for simple styling (like background color and font colors)
-- Update your settings to include `static url` and `static root`
-- Load static files in your templates
-- Link your stylesheet to your template
+- Create a stylesheet for simple styling (like background color and font colors).
+- Update your settings to include `static url` and `static root`.
+- Add static url patterns conditionally in your main urls.
+- Load static files in your templates.
+- Link your stylesheet to your template.
 
 ## 5. Push Your Code
 
